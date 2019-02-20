@@ -3,10 +3,10 @@
 - [ ] Practical knowledge
   - [ ] Languages
     - [ ] Objective-C
-      - [X] [Blocks](src/objc/blocks.md)
+      - [ ] [Blocks](src/objc/blocks.md)
       - [ ] Runtime
-      - [X] [KVC](src/objc/KVC.md)
-      - [X] [KVO](src/objc/KVO.md)
+      - [ ] [KVC](src/objc/KVC.md)
+      - [ ] [KVO](src/objc/KVO.md)
       - [ ] [Toll-free bridging](src/objc/toll-free-bridging.md)
       - [ ] [`Runtime`](src/objc/objc_runtime.md)
       - [ ] [Method messaging](src/objc/method_messaging.md)
@@ -23,24 +23,24 @@
         - [ ] [Method dispatch](src/swift/swift_method_dispatch.md)
   - [ ] Memory manadgment
     - [ ] Stack and Heap
-    - [X] Value vs Reference type
-    - [X] ARC
-    - [X] MRC
-    - [X] Retain cycles
-    - [X] Memory leaks
+    - [ ] Value vs Reference type
+    - [ ] ARC
+    - [ ] MRC
+    - [ ] Retain cycles
+    - [ ] Memory leaks
     - [ ] Autorelease pool
     - [ ] Shallow and deep copying
     - [X] Weak/Strong references
   - [ ] Multithreading and concurency
-    - [X] [GCD](src/multithreading/CGD.md)
+    - [ ] [GCD](src/multithreading/CGD.md)
     - [ ] NSOperation[Queue]
     - [ ] [`Runloop`](src/multithreading/runloop.md)
     - [ ] [`Synchronization`](src/multithreading/synchronization.md)
     - [ ] [POSIX and NSThreads](src/multithreading/POSIX_and_NSThreads.md)
     - [ ] [Perform selector family](src/multithreading/perform_selector_family.md)
     - [ ] [Race condition](src/multithreading/race_condition.md)
-    - [X] [Deadlock](src/multithreading/deadlock.md)
-    - [X] Livelock
+    - [ ] [Deadlock](src/multithreading/deadlock.md)
+    - [ ] Livelock
     - [ ] [Readers/writers problem](src/multithreading/readers–writers_problem.md)
   - [ ] Cocoa touch
     - [X] [UIKit](src/uikit/uikit.md)
@@ -73,27 +73,27 @@
       - [ ] Cocoa
       - [ ] [Architectural](src/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
         - [X] [MVC](src/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
-        - [X] [MVVM](src/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)
-        - [X] MVP
+        - [ ] [MVVM](src/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)
+        - [ ] MVP
         - [ ] [`Clean architecture`](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
-        - [X] [VIPER](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
+        - [ ] [VIPER](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
         - [ ] [RIBs](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RIBs/RESOURCES.md)
         - [ ] [Coordinators](src/Software_Architecture/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
       - [ ] Abstract Factory
       - [ ] [Class cluster](src/Software_Architecture/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
-      - [X] Adapter
-      - [X] Command Pattern
+      - [ ] Adapter
+      - [ ] Command Pattern
       - [ ] Chain of Responsibility
       - [ ] Decorator
-          - [X] Delegation
+          - [ ] Delegation
           - [ ] Categories
-      - [X] Facade
+      - [ ] Facade
       - [ ] Memento
-      - [X] Observer
+      - [ ] Observer
       - [ ] Proxy
       - [ ] Receptionist
       - [X] Singleton
-      - [X] Template Method
+      - [ ] Template Method
     - [X] Design principles
       - [ ] [`SOLID`](src/Software_Architecture/Design_Principles/SOLID/RESOURCES.md)
         - [ ] S
@@ -101,40 +101,40 @@
         - [ ] L
         - [ ] I
         - [ ] D
-      - [X] Inversion of Control
-      - [X] Dependency Injection
+      - [ ] Inversion of Control
+      - [ ] Dependency Injection
       - [X] Dry (don't repeat yourself)
-      - [X] KISS (keep it simple, stupid)
+      - [ ] KISS (keep it simple, stupid)
       - [ ] `Creational`
-        - [X] Factory
-        - [X] Abstract Factory
+        - [ ] Factory
+        - [ ] Abstract Factory
         - [ ] Builder
-        - [X] Factory Method
+        - [ ] Factory Method
         - [ ] Object Pool
         - [ ] Prototype
         - [X] [Singleton](src/Software_Architecture/Design_Patterns/Creational/Singleton/RESOURCES.md)
       - [ ] `Structural`
-        - [X] Adapter
-        - [X] Bridge
-        - [X] Composite
-        - [X] Decorator
-        - [X] Facade
+        - [ ] Adapter
+        - [ ] Bridge
+        - [ ] Composite
+        - [ ] Decorator
+        - [ ] Facade
         - [ ] Flyweight
         - [ ] Proxy
       - [ ] `Behavioural`
-        - [X] Command
+        - [ ] Command
         - [ ] Chain of responsibility
         - [ ] Interpreter
         - [ ] Iterator
         - [ ] Mediator
         - [ ] Memento
-        - [X] Observer
-        - [X] State
-        - [X] Strategy
+        - [ ] Observer
+        - [ ] State
+        - [ ] Strategy
         - [ ] Visitor
       - [ ] Concurrency
         - [ ] Anti-pattern
-  - [X] Dependency management
+  - [ ] Dependency management
       - [ ] [Cocoapods](src/Dependencies_management/Cocoapods/RESOURCES.md)
       - [ ] [Carthage](src/Dependencies_management/Carthage/RESOURCES.md)
       - [ ] [Swift Package Manager](src/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
@@ -148,10 +148,10 @@
     - [ ] [Realm](src/Caching_and_Persistency/Realm/RESOURCES.md)
     - [ ] YAPDatabase
   - [X] `Testing`
-    - [X] [`Unit Tests`](src/Testing/Unit_Tests/RESOURCES.md)
+    - [ ] [`Unit Tests`](src/Testing/Unit_Tests/RESOURCES.md)
     - [ ] Snapshot Tests
     - [ ] Functional test
-    - [X] [TDD](src/Testing/TDD/RESOURCES.md)
+    - [ ] [TDD](src/Testing/TDD/RESOURCES.md)
     - [ ] [BDD](src/Testing/BDD/RESOURCES.md)
   - [ ] Performance optimization
     - [ ] Increase FPS
@@ -160,8 +160,8 @@
     - [ ] `Tools`
       - [ ] IDE
         - [ ] Xcode
-          - [ ] [Interface Builder](src/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)
-          - [X] Swiftlint
+          - [X] [Interface Builder](src/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)
+          - [ ] Swiftlint
           - [ ] Sourcery
           - [ ] [Fastlane](src/Tools/Fastlane/RESOURCES.md)
       - [ ] Continuous Integration
@@ -185,7 +185,7 @@
       - [ ] `Recursion`
       - [ ] Game Theory
       - [ ] NP Complete
-      - [X] [`Big-O notation`](src/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
+      - [ ] [`Big-O notation`](src/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
     - [ ] `Abstract Data Types`
       - [X] `Stack`
       - [X] `Array`
@@ -196,7 +196,7 @@
       - [ ] Multiset (Bag)
       - [ ] `Graph`
           - [ ] Tree
-      - [X] `Queue`
+      - [ ] `Queue`
       - [ ] Priority Queue
       - [ ] Double-ended priority queue
       - [ ] Double-ended queue
