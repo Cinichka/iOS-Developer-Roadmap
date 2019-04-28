@@ -144,8 +144,8 @@
     - [ ] [Instruments](src/Debugging/Instruments/RESOURCES.md)
     - [ ] Best practices (???)
   - [ ] Caching and Presistency
-    - [ ] [Core Data](src/Caching_and_Persistency/Core_Data/RESOURCES.md)
-    - [ ] [Realm](src/Caching_and_Persistency/Realm/RESOURCES.md)
+    - [X] [Core Data](src/Caching_and_Persistency/Core_Data/RESOURCES.md)
+    - [X] [Realm](src/Caching_and_Persistency/Realm/RESOURCES.md)
     - [ ] YAPDatabase
   - [ ] `Testing`
     - [ ] [`Unit Tests`](src/Testing/Unit_Tests/RESOURCES.md)
