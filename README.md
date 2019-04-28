@@ -24,11 +24,11 @@
   - [ ] Memory manadgment
     - [ ] Stack and Heap
     - [ ] Value vs Reference type
-    - [ ] ARC
-    - [ ] MRC
+    - [Х] ARC
+    - [Х] MRC
     - [ ] Retain cycles
     - [ ] Memory leaks
-    - [ ] Autorelease pool
+    - [Х] Autorelease pool
     - [ ] Shallow and deep copying
     - [X] Weak/Strong references
   - [ ] Multithreading and concurency
@@ -61,7 +61,7 @@
         - [X] [`Notifications vs Delegation vs Observing`](src/foundation/Notifications_vs_Delegation_vs_Observing/RESOURCES.md)
         - [ ] [Collections](src/foundation/Collections/RESOURCES.md)
         - [X] [`Networking`](src/foundation/Networking/RESOURCES.md)
-        - [ ] [`Serialization`](src/foundation/Serialization/RESOURCES.md)
+        - [Х] [`Serialization`](src/foundation/Serialization/RESOURCES.md)
           - [ ] [NSCoding](src/foundation/Serialization/NSCoding/RESOURCES.md)
           - [ ] [`Codable`](src/foundation/Serialization/Codable/RESOURCES.md)
           - [ ] [`JSON`](src/foundation/Serialization/JSON/RESOURCES.md)
@@ -135,7 +135,7 @@
       - [ ] Concurrency
         - [ ] Anti-pattern
   - [ ] Dependency management
-      - [ ] [Cocoapods](src/Dependencies_management/Cocoapods/RESOURCES.md)
+      - [Х] [Cocoapods](src/Dependencies_management/Cocoapods/RESOURCES.md)
       - [ ] [Carthage](src/Dependencies_management/Carthage/RESOURCES.md)
       - [ ] [Swift Package Manager](src/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
   - [X] Version Control System
