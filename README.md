@@ -24,11 +24,11 @@
   - [ ] Memory manadgment
     - [ ] Stack and Heap
     - [ ] Value vs Reference type
-    - [Х] ARC
-    - [Х] MRC
+    - [X] ARC
+    - [X] MRC
     - [ ] Retain cycles
     - [ ] Memory leaks
-    - [Х] Autorelease pool
+    - [X] Autorelease pool
     - [ ] Shallow and deep copying
     - [X] Weak/Strong references
   - [ ] Multithreading and concurency
@@ -61,7 +61,7 @@
         - [X] [`Notifications vs Delegation vs Observing`](src/foundation/Notifications_vs_Delegation_vs_Observing/RESOURCES.md)
         - [ ] [Collections](src/foundation/Collections/RESOURCES.md)
         - [X] [`Networking`](src/foundation/Networking/RESOURCES.md)
-        - [Х] [`Serialization`](src/foundation/Serialization/RESOURCES.md)
+        - [X] [`Serialization`](src/foundation/Serialization/RESOURCES.md)
           - [ ] [NSCoding](src/foundation/Serialization/NSCoding/RESOURCES.md)
           - [ ] [`Codable`](src/foundation/Serialization/Codable/RESOURCES.md)
           - [ ] [`JSON`](src/foundation/Serialization/JSON/RESOURCES.md)
@@ -76,7 +76,7 @@
         - [ ] [MVVM](src/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)
         - [ ] MVP
         - [ ] [`Clean architecture`](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
-        - [ ] [VIPER](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
+        - [X] [VIPER](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
         - [ ] [RIBs](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RIBs/RESOURCES.md)
         - [ ] [Coordinators](src/Software_Architecture/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
       - [ ] Abstract Factory
@@ -135,7 +135,7 @@
       - [ ] Concurrency
         - [ ] Anti-pattern
   - [ ] Dependency management
-      - [Х] [Cocoapods](src/Dependencies_management/Cocoapods/RESOURCES.md)
+      - [X] [Cocoapods](src/Dependencies_management/Cocoapods/RESOURCES.md)
       - [ ] [Carthage](src/Dependencies_management/Carthage/RESOURCES.md)
       - [ ] [Swift Package Manager](src/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
   - [X] Version Control System
