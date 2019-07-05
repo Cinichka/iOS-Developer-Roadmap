@@ -22,8 +22,7 @@
       - [ ] [Runtime](src/swift/swift_runtime.md)
         - [ ] [Method dispatch](src/swift/swift_method_dispatch.md)
   - [ ] Memory manadgment
-    - [ ] Stack and Heap
-    - [ ] Value vs Reference type
+    - [X] Value vs Reference type
     - [X] ARC
     - [X] MRC
     - [ ] Retain cycles
